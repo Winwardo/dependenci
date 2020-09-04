@@ -30,7 +30,7 @@
     "passport-localapikey": "0.0.3",
     "request": "^2.72.0",
     "request-promise": "^3.0.0",
-    "sequelize": "^3.23.3",
+    "sequelize": "^6.3.5",
     "stripe": "^4.7.0",
     "url": "^0.11.0"
   },
